@@ -31,4 +31,11 @@ export default {
   height: 100vh;
   display: flex;
 }
+
+@media only screen and (max-width: 600px) {
+  #app {
+    
+    display: inline-block !important;
+}
+}
 </style>

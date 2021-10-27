@@ -231,4 +231,46 @@ i.fas.fa-expand:hover {
   font-size: 60px;
   transition: 0.5s;
 }
+
+
+@media only screen and (max-width: 600px) {
+  #app {
+    
+    display: inline-block !important;
+}
+
+.form-list {
+  width: 100%;
+    height: 70vh;
+    background-color: #000;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 0;
+    border-right: none;
+    box-shadow: none;
+}
+
+.input-text {
+   width: 315px;
+}
+
+.painel {
+  width: 112% !important;
+}
+
+.focus-mode {
+  display: none;
+}
+
+h1 {
+    
+    font-size: 30px !important;
+    
+}
+
+
+
+}
 </style>

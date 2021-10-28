@@ -1,24 +1,16 @@
-# to-do-list
+# To-Do list
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Sistema para criar uma lista de tarefas e lembretes.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Tecnologias Utilizadas:
 
-### Lints and fixes files
-```
-npm run lint
-```
+* Vue
+* HTML
+* CSS
+* Local Storage
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+[Link da Aplicação:](https://melembra.herokuapp.com/)
+
+

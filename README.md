@@ -11,6 +11,6 @@ Tecnologias Utilizadas:
 * Local Storage
 
 
-[Link da Aplicação:](https://melembra.herokuapp.com/)
+[Acessar a aplicação](https://melembra.herokuapp.com/)
 
 

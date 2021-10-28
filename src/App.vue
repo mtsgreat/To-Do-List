@@ -23,7 +23,7 @@ export default {
   body, html, h1 {
     margin: 0;
     padding: 0;
-    
+    overflow-x: hidden;
   }
 
 #app {
@@ -39,5 +39,11 @@ export default {
     display: inline-block !important;
     
 }
+
+ body, html, h1 {
+  
+    overflow-x: hidden !important;
+  }
+
 }
 </style>

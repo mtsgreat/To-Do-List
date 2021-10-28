@@ -23,6 +23,7 @@ export default {
   body, html, h1 {
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
   }
 
 #app {
@@ -34,7 +35,7 @@ export default {
 
 @media only screen and (max-width: 600px) {
   #app {
-    
+   
     display: inline-block !important;
     
 }

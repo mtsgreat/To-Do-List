@@ -36,7 +36,7 @@ export default {
   #app {
     
     display: inline-block !important;
-    overflow: hidden;
+    
 }
 }
 </style>
